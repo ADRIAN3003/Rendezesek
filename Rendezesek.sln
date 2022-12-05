@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Buborek", "Buborek\Buborek.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FixBuborek", "FixBuborek\FixBuborek.csproj", "{03B894B6-01E3-4826-A447-91AF33E1E788}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beszuro", "Beszuro\Beszuro.csproj", "{D3B2DDDB-CF59-4974-8F9A-86314A0EBEEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FixBeszuro", "FixBeszuro\FixBeszuro.csproj", "{0359FC5C-1F95-4CE1-B5B3-DC5053673250}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{03B894B6-01E3-4826-A447-91AF33E1E788}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{03B894B6-01E3-4826-A447-91AF33E1E788}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{03B894B6-01E3-4826-A447-91AF33E1E788}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3B2DDDB-CF59-4974-8F9A-86314A0EBEEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3B2DDDB-CF59-4974-8F9A-86314A0EBEEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3B2DDDB-CF59-4974-8F9A-86314A0EBEEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3B2DDDB-CF59-4974-8F9A-86314A0EBEEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0359FC5C-1F95-4CE1-B5B3-DC5053673250}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0359FC5C-1F95-4CE1-B5B3-DC5053673250}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0359FC5C-1F95-4CE1-B5B3-DC5053673250}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0359FC5C-1F95-4CE1-B5B3-DC5053673250}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
