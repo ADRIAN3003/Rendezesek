@@ -12,7 +12,7 @@ namespace EgyszeruCsere
     {
         static void Main(string[] args)
         {
-            int[] t = new int[40000];
+            int[] t = new int[80000];
 
             Stopwatch stopper = new Stopwatch();
 
@@ -44,7 +44,7 @@ namespace EgyszeruCsere
 
             Console.WriteLine(stopper.ElapsedMilliseconds);
 
-            Console.ReadLine();
+            Console.ReadKey();
         }
 
         private static void Beolvas(int[] t)
